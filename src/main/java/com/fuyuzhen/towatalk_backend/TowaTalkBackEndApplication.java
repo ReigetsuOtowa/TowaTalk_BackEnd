@@ -1,4 +1,4 @@
-package com.towatalk.towatalk_backend;
+package com.fuyuzhen.towatalk_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
